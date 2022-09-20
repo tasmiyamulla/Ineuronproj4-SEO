@@ -2,7 +2,7 @@
 
 _by Tasmiya 💗_
 
-### 🔗*Live Link* -: [SEO](4.png)
+### 🔗*Live Link* -: [SEO](https://tasmiya-project-4.netlify.app)
 
 ![SEO](./4.png)
 
